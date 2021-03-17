@@ -5,8 +5,27 @@
     left: 50%;
     transform: translate(-50%, -50%);
     color: black;
+    font-family: Arial;
 }
 
 body {
     background-color: #7289da;
   }
+
+img {
+    position: absolute;
+    bottom: 110px;
+    left: 0px;
+    width: 150px;
+    height: 150px;
+  }
+
+ .rainbow-text {
+    text-align: center;
+    position: absolute;
+    font-family: Arial;
+    top: 35%;
+    left: 45%;
+
+      
+}
